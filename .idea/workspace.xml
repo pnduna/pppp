@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af04504e-7149-42ea-a0cf-ee710a0829ac" name="Changes" comment="cast float into int">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="af04504e-7149-42ea-a0cf-ee710a0829ac" name="Changes" comment="Kilograms when cast to integer">
       <change beforePath="$PROJECT_DIR$/src/nd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697671449421</updated>
-      <workItem from="1697671450490" duration="7727000" />
+      <workItem from="1697671450490" duration="8299000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <option name="closed" value="true" />
@@ -82,7 +81,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697677258717</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Kilograms when cast to integer">
+      <option name="closed" value="true" />
+      <created>1697679903127</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697679903127</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,7 +109,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
     <MESSAGE value="cast float into int" />
-    <option name="LAST_COMMIT_MESSAGE" value="cast float into int" />
+    <MESSAGE value="Kilograms when cast to integer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kilograms when cast to integer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
