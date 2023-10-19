@@ -11,14 +11,15 @@ class nd {
 
         float Mars = (float) (mass*0.38);
         double z = Mars;
+        int w = (int)(z);
 
 
         System.out.println(mass+"kg on Earth is " + Mars + "kgs on mars");
         System.out.println("Kilogram on Mars after converting to double "+z);
         System.out.println("Kilograms on Mars displayed to four decimal places:");
+        System.out.println("Kilograms when casted to integer "+w);
 
 
-      //  System.out.println("Kilograms when casted to integer ");
       //  System.out.println("The ASCII table equivalent  of marsWeightInInt is");
        // System.out.println("An example of a mathematical operation on the char type:");
     }
